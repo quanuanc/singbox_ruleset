@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "juequling.com",
+        "themisweeps.com",
+        "genshinimpact.com",
+        "honkaiimpact3.com",
+        "yuanshen.com",
+        "honkaistarrail.com",
+        "n0vadesktop.com",
+        "hoyo.link",
+        "starrails.com",
+        "hoyoverse.com",
+        "hoyolab.com"
+      ]
+    }
+  ],
+  "version": 2
+}

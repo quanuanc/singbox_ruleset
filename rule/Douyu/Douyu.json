@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "douyu.com",
+        "douyutv.com",
+        "doyonoc.com",
+        "douyucdn2.cn",
+        "edgesrv.com",
+        "bytefcdnrd.com",
+        "douyuba.cn",
+        "douyupcdn.cn",
+        "guguyuyin.com",
+        "douyucdn.cn",
+        "douyu.tv",
+        "douyuscdn.com",
+        "oywtv.com"
+      ]
+    }
+  ],
+  "version": 2
+}

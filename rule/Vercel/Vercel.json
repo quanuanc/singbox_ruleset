@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zeit.co",
+        "now.sh",
+        "err.sh",
+        "vercel.sh",
+        "zeit-world.org",
+        "vercel.link",
+        "vercel.events",
+        "vercel.store",
+        "turborepo.org",
+        "zeit-world.com",
+        "vercel-status.com",
+        "vercel.app",
+        "zeit.sh",
+        "vercel.live",
+        "title.sh",
+        "vercel.blog",
+        "vercel.pub",
+        "zeit-world.net",
+        "zeitworld.com",
+        "vercel.com",
+        "vercel-analytics.com",
+        "vercel-dns.com",
+        "nextjs.org",
+        "static.fun",
+        "vercel-insights.com",
+        "hyper.is",
+        "zeit-world.co.uk"
+      ]
+    }
+  ],
+  "version": 2
+}

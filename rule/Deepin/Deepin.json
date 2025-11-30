@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "deepin.com",
+        "deepin.cn",
+        "uniontech.com",
+        "chinauos.com",
+        "deepin.org",
+        "deepin.io",
+        "linglong.dev"
+      ]
+    }
+  ],
+  "version": 2
+}

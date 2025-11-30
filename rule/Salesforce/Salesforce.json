@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "salesforce.com",
+        "salesforce.org",
+        "sfdcdigital.com",
+        "tableau.com",
+        "trailhead.com",
+        "force.com",
+        "mulesoft.com",
+        "herokucdn.com",
+        "sfdcstatic.com",
+        "herokuapp.com",
+        "salesforceliveagent.com",
+        "trailblazer.me",
+        "heroku.com"
+      ]
+    }
+  ],
+  "version": 2
+}

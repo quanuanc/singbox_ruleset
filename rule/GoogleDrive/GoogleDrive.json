@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "www.googleapis.com"
+      ],
+      "domain_suffix": [
+        "docs.google.com",
+        "drive.google.com",
+        "googleusercontent.com",
+        "googledrive.com"
+      ]
+    }
+  ],
+  "version": 2
+}
